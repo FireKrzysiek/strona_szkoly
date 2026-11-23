@@ -1,0 +1,46 @@
+src/
+│
+├── assets/
+│   ├── images/
+│   ├── icons/
+│   └── logo.svg
+│
+├── components/
+│   ├── layout/
+│   │   ├── Header.tsx
+│   │   ├── Navigation.tsx
+│   │   ├── MobileMenu.tsx
+│   │   └── Footer.tsx
+│   │
+│   ├── home/
+│   │   ├── Hero.tsx
+│   │   ├── QuickLinks.tsx
+│   │   ├── Directions.tsx
+│   │   ├── WhyUs.tsx
+│   │   ├── News.tsx
+│   │   └── SchoolLife.tsx
+│   │
+│   └── ui/
+│       ├── Button.tsx
+│       ├── SectionHeading.tsx
+│       ├── DirectionCard.tsx
+│       ├── NewsCard.tsx
+│       └── Container.tsx
+│
+├── data/
+│   ├── navigation.ts
+│   ├── directions.ts
+│   └── news.ts
+│
+├── types/
+│   └── index.ts
+│
+├── pages/
+│   └── HomePage.tsx
+│
+├── styles/
+│   ├── globals.css
+│   └── variables.css
+│
+├── App.tsx
+└── main.tsx
